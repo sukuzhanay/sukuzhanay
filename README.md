@@ -1,61 +1,49 @@
-# Christian Vladimir Sucuzhanay Arévalo
+# Christian Sucuzhanay | Data & AI Architect
 
-### Data & AI Solutions Architect | AWS Data Architecture | Generative AI & Amazon Bedrock | Big Data | Former University Lecturer
-
-I design and build production-oriented Data & AI architectures on AWS, combining modern data platforms, Generative AI and clear technical communication.
+I design and build production-grade Data & AI architectures on AWS, bridging modern data platforms, Generative AI (RAG, Agents) and rigorous engineering practices. 
 
 **Build. Explain. Teach. Share.**
 
 ---
 
-## Selected Work
+## 🏗️ Selected Work & Architecture
 
-### NIS2 Intelligence
-AWS-based regulatory intelligence architecture combining governed data, regulatory sources and evidence-grounded Generative AI.
+### NIS2 Regulatory Intelligence Platform
+AWS-based architecture combining governed data pipelines with evidence-grounded Generative AI for regulatory compliance.
+- **Stack**: AWS, Amazon Bedrock, Advanced RAG, Big Data Governance
+- **Impact**: [Añade 1 métrica breve, ej: "Reduced document retrieval latency by 40%" o "Automated analysis of X+ regulatory sources"]
 
-`AWS` · `Amazon Bedrock` · `RAG` · `Big Data` · `Data Architecture` · `NIS2`
-
-### Data First, GenAI Second
-My AWS Builder article about building AI-ready data foundations before introducing Generative AI.
-
-**Architecture:** Amazon S3 → AWS Glue → Amazon Athena → Amazon Bedrock / RAG
-
-[Read on AWS Builder →](https://builder.aws.com/content/3J5AXToJRysJjuV39GAWCt1XKUw/data-first-genai-second-building-ai-ready-data-on-aws)
+### Data First, GenAI Second (AWS Builder)
+Technical deep-dive on establishing AI-ready data foundations before deploying LLMs. 
+- **Architecture Pattern**: `Amazon S3` → `AWS Glue` → `Amazon Athena` → `Amazon Bedrock (RAG)`
+- 🔗 [Read the full architecture breakdown on AWS Builder](https://builder.aws.com/content/3J5AXToJRysJjuV39GAWCt1XKUw/data-first-genai-second-building-ai-ready-data-on-aws)
 
 ### Machine Learning — Burnout Analysis
-Academic machine-learning work exploring burnout analysis through data science workflows.
-
-[View repository →](https://github.com/sukuzhanay/Machine-Learning-BurnOut-Project)
-
-### Face Detection with C++ & OpenCV
-C++ implementation using Haar-cascade face detection and structured JSON output.
-
-[View repository →](https://github.com/sukuzhanay/Reconocimiento-Facial-en-C-)
+Academic research applying data science workflows to predict and analyze occupational burnout patterns.
+- 🔗 [View repository & methodology](https://github.com/sukuzhanay/Machine-Learning-BurnOut-Project)
 
 ---
 
-## Core Expertise
+## 🧠 Technical Stack
 
-`AWS` · `Data Architecture` · `Generative AI` · `Amazon Bedrock` · `RAG` · `Big Data` · `Python`
-
----
-
-## Writing & Technical Communication
-
-I write about Data & AI architecture, AWS, Generative AI and the engineering decisions behind production-oriented systems.
-
-**AWS Builder Series:** *Building a Data & AI Platform on AWS*
-
-[Read my AWS Builder profile →](https://builder.aws.com/community/@sucuzhanay)
+Instead of flat tags, categorized expertise demonstrates architectural maturity:
+- **GenAI & ML**: Amazon Bedrock, RAG Patterns, LLM Orchestration, Prompt Engineering
+- **Data Engineering**: Big Data Pipelines, Data Governance, Amazon Athena, AWS Glue
+- **Cloud & DevOps**: AWS Architecture, Infrastructure as Code (IaC), CI/CD for ML
 
 ---
 
-## Connect
+## ✍️ Writing & Technical Communication
 
-🌐 [Official Website](https://christiansucuzhanay.com/)  
-💼 [LinkedIn](https://www.linkedin.com/in/sucuzhanay)  
-☁️ [AWS Builder](https://builder.aws.com/community/@sucuzhanay)  
-🧪 [ResearchGate](https://www.researchgate.net/profile/Christian-Sucuzhanay-Arevalo)  
-🏅 [Credly](https://www.credly.com/users/christian-vladimir-sucuzhanay-arevalo)  
+I document engineering decisions behind production-oriented Data & AI systems.
+
+- **AWS Builder Series**: [Building a Data & AI Platform on AWS](https://builder.aws.com/community/@sucuzhanay)
+- **Academic & Research**: [ResearchGate Profile](https://www.researchgate.net/profile/Christian-Sucuzhanay-Arevalo)
+
+---
+
+## 🔗 Connect
+
+🌐 [Official Website](https://christiansucuzhanay.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/sucuzhanay)  
+☁️ [AWS Builder](https://builder.aws.com/community/@sucuzhanay) · 🏅 [Credly Badges](https://www.credly.com/users/christian-vladimir-sucuzhanay-arevalo)  
 💻 [Technical Portfolio](https://sukuzhanay.github.io/)
-
