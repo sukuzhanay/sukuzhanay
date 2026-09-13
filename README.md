@@ -58,11 +58,12 @@ These repositories are presented as learning resources and technical foundations
 [☁️ AWS Builder](https://builder.aws.com/community/@sucuzhanay) ·
 [💬 Stack Overflow](https://stackoverflow.com/users/6025932/christian-vladimir-sucuzhanay)
 
+## 🔗 Professional Links
 
-<a href="https://christiansucuzhanay.com"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="28" title="Website"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/sucuzhanay"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" title="LinkedIn"/></a>&nbsp;
-<a href="https://sukuzhanay.github.io"><img src="https://cdn.simpleicons.org/github/181717" width="28" title="Portfolio"/></a>&nbsp;
-<a href="https://www.credly.com/users/christian-vladimir-sucuzhanay-arevalo"><img src="https://cdn.simpleicons.org/credly/FF6B00" width="28" title="Credly"/></a>&nbsp;
-<a href="https://www.researchgate.net/profile/Christian-Sucuzhanay-Arevalo"><img src="https://cdn.simpleicons.org/researchgate/00CCBB" width="28" title="ResearchGate"/></a>&nbsp;
-<a href="https://builder.aws.com/community/@sucuzhanay"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="28" title="AWS Builder"/></a>&nbsp;
-<a href="https://stackoverflow.com/users/6025932/christian-vladimir-sucuzhanay"><img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="28" title="Stack Overflow"/></a>
+<a href="https://christiansucuzhanay.com"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="32" title="Website"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sucuzhanay"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" title="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://sukuzhanay.github.io"><img src="https://cdn.simpleicons.org/github/181717" width="32" title="Portfolio"/></a>&nbsp;&nbsp;
+<a href="https://www.credly.com/users/christian-vladimir-sucuzhanay-arevalo"><img src="https://cdn.simpleicons.org/credly/FF6B00" width="32" title="Credly"/></a>&nbsp;&nbsp;
+<a href="https://www.researchgate.net/profile/Christian-Sucuzhanay-Arevalo"><img src="https://cdn.simpleicons.org/researchgate/00CCBB" width="32" title="ResearchGate"/></a>&nbsp;&nbsp;
+<a href="https://builder.aws.com/community/@sucuzhanay"><img src="https://cdn.simpleicons.org/amazon/FF9900" width="32" title="AWS Builder"/></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/6025932/christian-vladimir-sucuzhanay"><img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="32" title="Stack Overflow"/></a>
