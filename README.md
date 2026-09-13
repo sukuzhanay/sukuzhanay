@@ -10,41 +10,49 @@ I design and build Data & AI architectures on AWS, connecting modern data platfo
 
 ## 🏗️ Selected Projects
 
-| Project | Description | Stack |
+| Project | Why it matters | Stack / Focus |
 |---|---|---|
-| [eburnout](https://github.com/sukuzhanay/eburnout) | Full-stack health-tech platform for occupational burnout detection. Mobile app, cloud backend, Fitbit integration and analytics dashboard. | Ionic · Angular · Firebase · Fitbit |
-| [eburnout-ml](https://github.com/sukuzhanay/eburnout-ml) | Machine Learning analysis of occupational burnout data from a Big Data Master's degree. Data preparation, modeling and results. | Python · Jupyter · Orange |
-| [face-detection-cpp](https://github.com/sukuzhanay/Face-detection-cpp) | Command-line face detection using OpenCV Haar cascades. Computes face bounding boxes, displays elliptical overlays and outputs face count and image path to JSON. | C++ · OpenCV |
-| [pyspark-bigdata](https://github.com/sukuzhanay/Pyspark-bigdata) | Guided notebook for joining, cleaning and exploring large-scale tabular data with Apache Spark. | Python · PySpark · Jupyter |
-| [qrcovid-platform](https://github.com/sukuzhanay/qrcovid-platform) | Academic distributed-systems project integrating QR processing, HC1 decoding, photo embedding, cloud persistence and analytics. | Python · Streamlit · Firebase · Plotly |
-| [sukuzhanay.github.io](https://github.com/sukuzhanay/sukuzhanay.github.io) | Technical portfolio website linking public project evidence and professional identity. | HTML |
+| [**eBurnout**](https://github.com/sukuzhanay/eburnout) | Full-stack health-tech ecosystem for occupational burnout assessment and monitoring, combining mobile engineering, cloud services, wearable integration, offline persistence and analytics. | Ionic · Angular · Firebase · Fitbit · Data Visualization |
+| [**eBurnout ML**](https://github.com/sukuzhanay/eburnout-ml) | Machine Learning analysis of occupational burnout data developed in the context of a Big Data Master's degree, covering data preparation, modeling and analytical results. | Python · Jupyter · Orange · Machine Learning |
+| [**Face Detection C++**](https://github.com/sukuzhanay/Face-detection-cpp) | Command-line face detection with OpenCV Haar cascades, bounding-box processing and structured JSON output. | C++ · OpenCV · Computer Vision |
+| [**PySpark Big Data**](https://github.com/sukuzhanay/Pyspark-bigdata) | Distributed data-processing notebook for joining, cleaning and exploring large tabular datasets with Apache Spark. | Python · PySpark · Jupyter · Big Data |
+| [**QR Covid Platform**](https://github.com/sukuzhanay/qrcovid-platform) | Collaborative academic distributed-systems project integrating QR processing, HC1 decoding, photo embedding, Firebase persistence and analytics under my academic and technical direction. | Python · Streamlit · Firebase · Plotly |
+| [**Technical Portfolio**](https://github.com/sukuzhanay/sukuzhanay.github.io) | Public portfolio and identity hub connecting technical evidence, selected projects and professional profiles. | HTML · GitHub Pages · Entity SEO |
 
 ---
 
 ## ✍️ Technical Writing
 
-**[Data First, GenAI Second: Building AI-Ready Data on AWS](https://builder.aws.com/content/3J5AXToJRysJjuV39GAWCt1XKUw/data-first-genai-second-building-ai-ready-data-on-aws)**  
-Published on AWS Builder. Data-foundation-first approach for AI platforms
-using Amazon S3, AWS Glue, Amazon Athena and Amazon Bedrock with RAG.
+### [Data First, GenAI Second: Building AI-Ready Data on AWS](https://builder.aws.com/content/3J5AXToJRysJjuV39GAWCt1XKUw/data-first-genai-second-building-ai-ready-data-on-aws)
+
+Published on **AWS Builder**. A data-foundation-first approach for AI platforms using **Amazon S3, AWS Glue, Amazon Athena and Amazon Bedrock with RAG**.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Core Skills
 
-`AWS` `Data Architecture` `Big Data` `Machine Learning` `Generative AI`
-`Amazon Bedrock` `Python` `Apache Spark` `C++` `Angular` `Firebase` `Docker`
-
----
-
-## 📚 Teaching & Foundations
-
-Historical teaching materials covering [Java concurrency](https://github.com/sukuzhanay/Concurrent-and-distributed-programming),
-[Python sockets](https://github.com/sukuzhanay/chat_using_sockets) and
-[Ionic/Angular](https://github.com/sukuzhanay/ionic6-crash-course-angular-15).
-Presented as learning resources with scope and limitations documented in each README.
+`AWS` `Data Architecture` `Big Data` `Generative AI` `Amazon Bedrock`  
+`Machine Learning` `Python` `Apache Spark` `C++` `Angular` `Firebase` `Docker`
 
 ---
 
-## 🔗 Links
+## 🎓 Teaching & Engineering Foundations
 
-[🌐 Website](https://christiansucuzhanay.com) · [💼 LinkedIn](https://www.linkedin.com/in/sucuzhanay) · [📊 Portfolio](https://sukuzhanay.github.io) · [🏅 Credly](https://www.credly.com/users/christian-vladimir-sucuzhanay-arevalo) · [🔬 ResearchGate](https://www.researchgate.net/profile/Christian-Sucuzhanay-Arevalo) · [☁️ AWS Builder](https://builder.aws.com/community/@sucuzhanay)
+Historical teaching and engineering material covering:
+
+- [Java concurrency & distributed programming](https://github.com/sukuzhanay/Concurrent-and-distributed-programming)
+- [Python sockets](https://github.com/sukuzhanay/chat_using_sockets)
+- [Ionic / Angular](https://github.com/sukuzhanay/ionic6-crash-course-angular-15)
+
+These repositories are presented as learning resources and technical foundations, with their scope and limitations documented individually.
+
+---
+
+## 🔗 Professional Links
+
+[🌐 Website](https://christiansucuzhanay.com) ·
+[💼 LinkedIn](https://www.linkedin.com/in/sucuzhanay) ·
+[📊 Portfolio](https://sukuzhanay.github.io) ·
+[🏅 Credly](https://www.credly.com/users/christian-vladimir-sucuzhanay-arevalo) ·
+[🔬 ResearchGate](https://www.researchgate.net/profile/Christian-Sucuzhanay-Arevalo) ·
+[☁️ AWS Builder](https://builder.aws.com/community/@sucuzhanay)
