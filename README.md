@@ -55,4 +55,5 @@ These repositories are presented as learning resources and technical foundations
 [📊 Portfolio](https://sukuzhanay.github.io) ·
 [🏅 Credly](https://www.credly.com/users/christian-vladimir-sucuzhanay-arevalo) ·
 [🔬 ResearchGate](https://www.researchgate.net/profile/Christian-Sucuzhanay-Arevalo) ·
-[☁️ AWS Builder](https://builder.aws.com/community/@sucuzhanay)
+[☁️ AWS Builder](https://builder.aws.com/community/@sucuzhanay) ·
+[💬 Stack Overflow](https://stackoverflow.com/users/6025932/christian-vladimir-sucuzhanay)
