@@ -1,11 +1,10 @@
 # Christian Vladimir Sucuzhanay Arévalo
 
-**Data & AI Solutions Architect · AWS · Big Data · Generative AI**
+**Data & AI Solutions Architect | AWS Data Architecture | Generative AI & Amazon Bedrock | Big Data | Former University Lecturer**
 
-I design and build data platforms and AI systems — from architecture
-and integration to implementation and technical communication.
+I design and build Data & AI architectures on AWS, connecting modern data platforms, Generative AI and rigorous engineering practices.
 
-> *Build. Explain. Teach. Share.*
+> **Build. Explain. Teach. Share.**
 
 ---
 
@@ -15,9 +14,9 @@ and integration to implementation and technical communication.
 |---|---|---|
 | [eburnout](https://github.com/sukuzhanay/eburnout) | Full-stack health-tech platform for occupational burnout detection. Mobile app, cloud backend, Fitbit integration and analytics dashboard. | Ionic · Angular · Firebase · Fitbit |
 | [eburnout-ml](https://github.com/sukuzhanay/eburnout-ml) | Machine Learning analysis of occupational burnout data from a Big Data Master's degree. Data preparation, modeling and results. | Python · Jupyter · Orange |
-| [face-detection-cpp](https://github.com/sukuzhanay/Face-detection-cpp) | Command-line facial recognition using OpenCV Haar cascade. Detects faces, draws bounding boxes and writes output to JSON. | C++ · OpenCV |
+| [face-detection-cpp](https://github.com/sukuzhanay/Face-detection-cpp) | Command-line face detection using OpenCV Haar cascades. Computes face bounding boxes, displays elliptical overlays and outputs face count and image path to JSON. | C++ · OpenCV |
 | [pyspark-bigdata](https://github.com/sukuzhanay/Pyspark-bigdata) | Guided notebook for joining, cleaning and exploring large-scale tabular data with Apache Spark. | Python · PySpark · Jupyter |
-| [qrcovid-platform](https://github.com/sukuzhanay/qrcovid-platform) | QR-based COVID checker with photo watermarking and real-time dashboard. | Python |
+| [qrcovid-platform](https://github.com/sukuzhanay/qrcovid-platform) | Academic distributed-systems project integrating QR processing, HC1 decoding, photo embedding, cloud persistence and analytics. | Python · Streamlit · Firebase · Plotly |
 | [sukuzhanay.github.io](https://github.com/sukuzhanay/sukuzhanay.github.io) | Technical portfolio website linking public project evidence and professional identity. | HTML |
 
 ---
